@@ -1,9 +1,9 @@
 ## Info
-    Name:- Younus Siddique
+    Name:- Adarsh Kashyap
     Branch:- CSE
     Passout Batch:- 2024
-    Mobile:- 8354056860 
+    Mobile:- 7518931421
     College:- Dr. Ambedkar Institute Of Technology For Handicapped, Kanpur
 
-Note:- The table has Name and age parameters only.
+
 
